@@ -1,4 +1,386 @@
-# Changelog
+## Serenity 2 v1.6.3
+
+**Build at:** `29.01.2022 11:00`
+
+**Info**:
+- Download Size change: 0.1GB (68.35GB)
+- Install Size change: -4.71GB (92.4GB 97.11GB)
+
+**Mod Changes**:
+- Added optional [Ultra Widescreen Patch for Forget Spell (1.0)](https://www.nexusmods.com/skyrimspecialedition/mods/54854)
+- Added optional [Complete Widescreen Fix for Vanilla and SkyUI 2.2 and 5.2 SE (2.0)](https://www.nexusmods.com/skyrimspecialedition/mods/1778)
+- Added [Unofficial performance optimized textures (v9)](https://www.nexusmods.com/skyrimspecialedition/mods/21166)
+
+**Fixes & Tweaks**:
+- Included Community Character presets;
+- Included custom script bug fixes (Infusion, Animal Display, Immersive Armours etc.) and Vampire/Forsworn missives fixes.
+
+## Serenity 2 v1.6.2.1
+
+**Build at:** `30.08.2021 18:10`
+
+**Info**:
+- Download Size change: - (68.25GB)
+- Install Size change: - (97.11GB)
+
+**Mod Changes**:
+- Updated [.NET Script Framework (16.0)](https://www.nexusmods.com/skyrimspecialedition/mods/21294)
+
+As v15.0 apparently was breaking half-cost spell perks globally 😒
+
+## Serenity 2 v1.6.2
+
+**Build at:** `30.08.2021 12:00`
+
+**Info**:
+- Download Size change: - (68.25GB)
+- Install Size change: - (97.11GB)
+
+**Mod Changes**:
+- Updated [Skyrim Reputation Improved (1.3.3)](https://www.nexusmods.com/skyrimspecialedition/mods/52416)
+- Updated [ELFX Fixes (5.7.0.0)](https://www.nexusmods.com/skyrimspecialedition/mods/25498)
+- Updated [.NET Script Framework (15.0)](https://www.nexusmods.com/skyrimspecialedition/mods/21294)
+- Updated [ENB Series SkyrimSE (0.462)](http://enbdev.com/mod_tesskyrimse_v0462.htm)
+
+**Fixes & Tweaks**:
+ - Dawnguard Arsenal weapons are now silver only instead of steel/silver mix, also their value & names normalised;
+ - Marked location now shown as a red cross marker on compass - e.g. it matches map icon;
+ - Visuals of bedrolls in tents slightly improved and textures replaced with improved 2Ks;
+ - R-EG: another dozen of spell books with improper school covers fixed - hopefully nothing missed now;
+ - A rogue flying rock from Leaps of Faith removed;
+ - Updated Zangdar's ENB preset.
+
+## Serenity 2 v1.6.1
+
+**Build at:** `28.08.2021 10:00`
+
+**Info**:
+- Download Size change: +0.04GB (68.25GB)
+- Install Size change: +0.08GB (97.11GB)
+
+**Mod Changes**:
+- Updated [Skyrim Reputation Improved (1.3.2)](https://www.nexusmods.com/skyrimspecialedition/mods/52416)
+- Updated [Requiem - Immersive Racial Traits (1.0)](https://www.nexusmods.com/skyrimspecialedition/mods/47231)
+- Updated [Requiem - Static Skill Leveling (Experience Mod Add-on) (2.2)](https://www.nexusmods.com/skyrimspecialedition/mods/43185)
+- Added [Campfire Backpack HD (1.3)](https://www.nexusmods.com/skyrimspecialedition/mods/34516)
+- Updated [powerofthree's Papyrus Extender (4.5.1)](https://www.nexusmods.com/skyrimspecialedition/mods/22854)
+- Updated [Leaps of Faith - A Misc Quest (1.0.1)](https://www.nexusmods.com/skyrimspecialedition/mods/53074)
+- Updated [NPC AI Process Position Fix - SSE (4.05c)](https://www.nexusmods.com/skyrimspecialedition/mods/40261)
+- Added [Immersive Interactions - Patch for Dragon Claws Auto-Unlock Instant Version (1.35)](https://www.nexusmods.com/skyrimspecialedition/mods/53745)
+- Added optional [Auto Input Switch (1.1.0)](https://www.nexusmods.com/skyrimspecialedition/mods/54309)
+- Moved to optional [Better Combat Escape - SSE (0.83)](https://www.nexusmods.com/skyrimspecialedition/mods/43936) - conflicts with interior chase
+- Updated [ENB Series SkyrimSE (0.462)](http://enbdev.com/mod_tesskyrimse_v0462.htm)
+- Updated [Assorted mesh fixes (0.23)](https://www.nexusmods.com/skyrimspecialedition/mods/32117)
+
+**Fixes & Tweaks**:
+- Sunfire (and bunch of similar spells): removed lingering sound effect on impact location --- credits to Fornication for hints;
+- R-SSL: fixed scripting issue which could lead to inability to incrase skill levels (apart from spam-click);
+- Campfire: fixed broken menu, buttons are no longer shifted;
+- Campfire: backpacks with divine amulets integrated into R-IDB, diverged bonuses adjusted and curses added (**no greater blessing this way**);
+- LotD: backpacks carry weight increased by a bit - to compensate lack of divine bonuses and justify alternative bulkier looks;
+- R-EG: fixed dozen of spell books with improper school covers;
+- R-IDB: fixed Talos blessing bonus for destroy DB being dependant on random event (which gives own bonus anyway);
+- FONTS: thrown away a few fonts due to bad readability.
+
+- *forgot to mention* Ebony Warrior XP now unique and corresponds his level.
+
+## Serenity 2 v1.6.0.2
+
+**Build at:** `23.08.2021 08:42`
+
+- Lost ReShade presets have been re-added to the list;
+- Static Skill Levelling weird behaviour shall be gone.
+
+## Serenity 2 v1.6.0
+
+**Build at:** `22.08.2021 11:49`
+
+**Info**:
+- Download Size change: -0.09GB (68.21GB)
+- Install Size change: -0.14GB (97.03GB)
+
+**Mod Changes**:
+- Added [Pants for Savior's Hide (0.1)](https://www.nexusmods.com/skyrimspecialedition/mods/25131)
+- Updated [Assorted mesh fixes (0.22)](https://www.nexusmods.com/skyrimspecialedition/mods/32117)
+- Updated [Unique Skulls HD - SE 2K (1.1)](https://www.nexusmods.com/skyrimspecialedition/mods/52073)
+- Updated [JK's Interiors Patch Collection (3.11)](https://www.nexusmods.com/skyrimspecialedition/mods/35910)
+- Added [JK's Mistveil Keep (1.0.1)](https://www.nexusmods.com/skyrimspecialedition/mods/52462)
+- Added [JK's The Temple of Mara (1.0.0)](https://www.nexusmods.com/skyrimspecialedition/mods/52724)
+- Added [JK's Silver-Blood Inn (1.0.0)](https://www.nexusmods.com/skyrimspecialedition/mods/53554)
+- Updated [Requiem - small tweaks SE - NPC Statefix (0.2j)](https://www.nexusmods.com/skyrimspecialedition/mods/42633)
+- Updated [Requiem - small tweaks SE - Vampire Collection (0.3d)](https://www.nexusmods.com/skyrimspecialedition/mods/42633)
+- Updated [Bright Waterfall Fix for ENB (3.3.3)](https://www.nexusmods.com/skyrimspecialedition/mods/37956)
+- Updated [Requiem - Special Feats (0.3)](https://www.nexusmods.com/skyrimspecialedition/mods/42588)
+- Added [Fixed Mesh Lighting (1.3.1)](https://www.nexusmods.com/skyrimspecialedition/mods/53653)
+- Added [No Killmoves - No Killcams - No Killbites SE (1.1)](https://www.nexusmods.com/skyrimspecialedition/mods/13395)
+- Added [Solstheim Objects SMIMed - High Poly Dark Elf Furniture (0.1.1)](https://www.nexusmods.com/skyrimspecialedition/mods/53779)
+- Added [Better Combat Escape - SSE (0.83)](https://www.nexusmods.com/skyrimspecialedition/mods/43936)
+- Updated [Scrambled Bugs (12)](https://www.nexusmods.com/skyrimspecialedition/mods/43532)
+- Added [Face Discoloration Fix (1.0.1)](https://www.nexusmods.com/skyrimspecialedition/mods/42441) - not required due to pre-gen data, but a pre-caution
+- Added [Headhunter - Bounties Redone (1.20)](https://www.nexusmods.com/skyrimspecialedition/mods/51847)
+- Added [Better Blackreach Clutter (1.4)](https://www.nexusmods.com/skyrimspecialedition/mods/40045)
+- Included part of [Blackreach Edits (1.0)](https://www.nexusmods.com/skyrimspecialedition/mods/9110)
+- Added [Better Dynamic Snow v2 Synthesis Patcher](https://github.com/SteveTownsend/BDSv2Patcher)
+- Added [Amulets Show On Everything Synthesis Patcher](https://github.com/ixanza/AmuletsShowOnEverything)
+- Added [Nilheim - Misc Quest Expansion (1.0)](https://www.nexusmods.com/skyrimspecialedition/mods/53792)
+- Added [Whiterun Watchtower Doesn't Start Broken (1.0)](https://www.nexusmods.com/skyrimspecialedition/mods/49305)
+- Added [BA Bard Songs (1.3)](https://www.nexusmods.com/skyrimspecialedition/mods/47202)
+- Added [Skyrim's Got Talent - Improve As a Bard (1.22)](https://www.nexusmods.com/skyrimspecialedition/mods/50357)
+- Added [Leaps of Faith - A Misc Quest (1.0)](https://www.nexusmods.com/skyrimspecialedition/mods/53074)
+- Added [Immersive Interactions - Animated Actions (1.36)](https://www.nexusmods.com/skyrimspecialedition/mods/47670)
+- Added [Vanilla Script (micro)Optimizations (1.0)](https://www.nexusmods.com/skyrimspecialedition/mods/54061)
+- Added [Animated Static Reload Fix (1.01)](https://www.nexusmods.com/skyrimspecialedition/mods/53761)
+- Updated [Requiem - Resist and Regen Tweak (0.2)](https://www.nexusmods.com/skyrimspecialedition/mods/42591)
+- Updated [Skyrim Reputation Improved (1.3)](https://www.nexusmods.com/skyrimspecialedition/mods/52416)
+- Updated [Requiem - Static Skill Leveling (Experience Mod Add-on) (2.1)](https://www.nexusmods.com/skyrimspecialedition/mods/43185)
+- Added [Requiem - Weapons and Armor Redone (WAR) (0.1)](https://www.nexusmods.com/skyrimspecialedition/mods/42591)
+- Added [College of Winterhold Quest Start Fixes (0.1)](https://www.nexusmods.com/skyrimspecialedition/mods/53817)
+
+**Fixes & Tweaks**:
+- R-IDB: Tweaked Hircine blessing to decouple Totem from Ring/Hide.
+- Konahriks Accoutrements resolved inconsistency with Dovah Sonaak looks.
+- Fixed a few improper records:
+  - R-IDB-disabled: Rueful Axe, Vigilant Sword; minor WACCF inconsistencies; paper world map conflicts;
+  - LOTD: WeatherWard Circlet description fixed; Skullcrusher speed toned down a bit;
+  - R-EG: Charged Nova description fixed; Mark&Recall now properly Alteration;
+  - R-IR: Otherwordly Phantasms now again enable Frenzy Sphere dual cast;
+  - R-IDB: Mara's Warmth *should not* trigger hostility anymore from patrols.
+- R-EG: Realigned Destruction Infusion to Novice for early Spellblades support; subtly realigned Illusion/Conjuration apprentice spell choices.
+- R-SF: Assigned various spell choices to Unskilled Spellcasting perk.
+- Darkvision/ENB - 50% magnitude replaced with reduced duration, which elevated by empower.
+- NECR: Multiple notification upon character creation shall be fixed.
+- `Serenity` profile (XP/SSL):
+  - Modified combat XP curve: toned down higher-level XP outcomes; more `Boss` NPC now have own XP values;
+  - Modified SP cost curve - from 3/5/7/9 skill increase costs changed to 3/5/8/13, hence higher levels require more *dedication*;
+  - Added XP for specific locations discovery, not too much and nothing for peaceful looking location types;
+  - Uploaded above changes to Requiem-Experience and Requiem-StaticSkillLeveling.
+- R-WAR: Aligned R-EG bound bows/xbows accordingly; WACCF - light xbows silent, heavy are not.
+
+## Serenity 2 v1.5.3.1
+
+**Build at:** `12.08.2021 22:05`
+
+**Fixes & Tweaks**:
+- ENB Night Eye fix: included proper ini which should resolve the issue, added steps to README for when ENB is disabled.
+
+## Serenity 2 v1.5.3
+
+**Build at:** `12.08.2021 00:33`
+
+**Info**:
+- Download Size change: +0.05GB (68.3GB)
+- Install Size change: +0.08GB (97.17GB)
+
+**Mod Changes**:
+- Added [ElSopa - Iron Weapons Redone SE (1.1)](https://www.nexusmods.com/skyrimspecialedition/mods/52605)
+- Added [Skyrim Reputation Improved (1.2)](https://www.nexusmods.com/skyrimspecialedition/mods/52416)
+- Added [Banshee -Wisp Mother Sounds Rework- (1.0)](https://www.nexusmods.com/skyrimspecialedition/mods/52317)
+- Replaced [The Paarthurnax Resolution](https://www.nexusmods.com/skyrimspecialedition/mods/43766) with [Paarthurnax - Quest Expansion (1.1)](https://www.nexusmods.com/skyrimspecialedition/mods/51711)
+- Updated [Flickering Sunlight Shadows Fix(1.4)](https://www.nexusmods.com/skyrimspecialedition/mods/53441)
+- Removed [No More Laser-Printed Book](https://www.nexusmods.com/skyrimspecialedition/mods/462) - superseeded by FONTS in v1.5.2
+- Switched [Legacy of the Dragonborn SSE - The Curators Companion (6.0.4)](https://github.com/Ic0nic0de/TheCuratorsCompanion) to github version
+- Switched bunch of github links so they would not die over time, switched MEGA uploads to CDN
+
+**Fixes & Tweaks**:
+- SunHelm Bosmer Cannibalism: disabled ability to enable it via MCM and disabled auto-enabling feature. This is an ultimate fix.
+- Paper World Map: hotfixed display issue when you around Whiterun.
+- Immersive Divine Blessings & Crime stats: Bugfixed an issue that many of effects would not follow Crime stat ignores introduced in v1.5.0. To clarify, before this fix crime stats were not punished (as expected), however they would also silently disable part of buffs.
+
+## Serenity 2 v1.5.2
+
+**Build at:** `09.08.2021 23:13`
+
+**Info**:
+- Download Size change: +0.04GB (68.25GB)
+- Install Size change: +0.03GB (97.05GB)
+
+**Mod Changes**:
+- Added [Flickering Sunlight Shadows Fix(1.1)](https://www.nexusmods.com/skyrimspecialedition/mods/53441)
+- Added [Particle Lights for ENB - Nordic Ruins Candles (1.1)](https://www.nexusmods.com/skyrimspecialedition/mods/52335)
+- Added [Forget Spell (1.2.2)](https://www.nexusmods.com/skyrimspecialedition/mods/51125)
+- Added [Don't Stay in The Water (4.1)](https://www.nexusmods.com/skyrimspecialedition/mods/52164)
+- Added [Scallions of Skyrim - High Polygon Leeks (0.1)](https://www.nexusmods.com/skyrimspecialedition/mods/53205)
+- Added [Font Overhaul - Natural Typefaces for Skyrim -- FONTS (2.1.1)](https://www.nexusmods.com/skyrimspecialedition/mods/2880)
+- Moved [Quick Loot RE (2.8.6)](https://www.nexusmods.com/skyrimspecialedition/mods/21085) to optionals and disabled - has minor compatibility issues
+
+**Fixes & Tweaks**:
+- ~~Updated SunHelm MCM Automation to suppress SunHelm's Cannibalism on Bosmers - it duplicates Requiem feature (and feels broken in a few ways)~~ Need an extra care as SunHelm compulsively enables it for Bosmers
+- All the merged patches are now properly hidden to not clutter the view
+- Simple Taxes font issue shall be resolved
+
+## Serenity 2 v1.5.1
+
+**Build at:** `08.08.2021 13:55`
+
+**Info**:
+
+- Download Size change: +0.01GB (68.21GB)
+- Install Size change: +0.02GB (97.02GB)
+
+**Mod Changes**:
+- Added [Skyrim Priority SE - skse plugin(3.0.0)](https://www.nexusmods.com/skyrimspecialedition/mods/50129)
+- Added [NPC AI Process Position Fix - SSE (4.05b)](https://www.nexusmods.com/skyrimspecialedition/mods/40261)
+- Added [Splashes Of Skyrim (1.2.1)](https://www.nexusmods.com/skyrimspecialedition/mods/47710)
+- Removed [Dawnguard Map Markers]
+
+**Fixes & Tweaks**:
+- Duplicated Nords shall be fixed - playable races cloning won't happen ever again;
+- Supposedly game-save compatible unless certain Nord race has been picked.
+
+## Serenity 2 v1.5.0
+
+**Build at:** `07.08.2021 13:19`
+
+**Info**:
+
+- Download Size change: 0.0GB (Total: 68.2GB)
+- Install Size change: +2.6GB (Total: 97.0GB)
+
+**Mod Changes**:
+
+- Updated [BeastHHBB - NPC Replacer and Player (3.1)](https://www.nexusmods.com/skyrimspecialedition/mods/38480)
+- Updated [Completionist - Quest Tracker (3.1)](https://www.nexusmods.com/skyrimspecialedition/mods/46358)
+- Updated [JK's Interiors Patch Collection (3.5.2)](https://www.nexusmods.com/skyrimspecialedition/mods/35910)
+- Updated [Deiform Alduin 8K (1.1)](https://www.nexusmods.com/skyrimspecialedition/mods/44329)
+- Updated [Deiform Alduin Particle Lights (1.1)](https://www.nexusmods.com/skyrimspecialedition/mods/44329)
+- Updated [Dwemer Gates Don't Reset (1.3.1)](https://www.nexusmods.com/skyrimspecialedition/mods/26331)
+- Updated [JK's Sleeping Giant Inn (1.1.0)](https://www.nexusmods.com/skyrimspecialedition/mods/35806)
+- Updated [JK's The Winking Skeever (1.2.0)](https://www.nexusmods.com/skyrimspecialedition/mods/43991)
+- Updated [JK's Warmaiden's (1.2.0)](https://www.nexusmods.com/skyrimspecialedition/mods/33685)
+- Updated [KS Hairdos SSE (1.8)](https://www.nexusmods.com/skyrimspecialedition/mods/6817)
+- Updated [Legacy of the Dragonborn Patches (Official) (2.5.3)](https://www.nexusmods.com/skyrimspecialedition/mods/30980)
+- Updated [Legacy of the Dragonborn SSE (5.5.2)](https://www.nexusmods.com/skyrimspecialedition/mods/11802)
+- Updated [Legacy of the Dragonborn  - The Curators Companion (6.0.4)](https://www.nexusmods.com/skyrimspecialedition/mods/38529)
+- Updated [Missives - Worldspace Additions - Wyrmstooth Patch (2.04b)](https://www.nexusmods.com/skyrimspecialedition/mods/26788)
+- Updated [NARC Remade  - No Animals Report Crimes for Skyrim SE (1.0.3)](https://www.nexusmods.com/skyrimspecialedition/mods/17946)
+- Updated [Requiem - Expanded Grimoire (3.1.0)](https://www.nexusmods.com/skyrimspecialedition/mods/39214)
+- Updated [Requiem - small tweaks SE - NPC Statefix (0.2g)](https://www.nexusmods.com/skyrimspecialedition/mods/42633)
+- Updated [Requiem - small tweaks SE - Vampire Collection (0.3b)](https://www.nexusmods.com/skyrimspecialedition/mods/42633)
+- Updated [Requiem - The Roleplaying Overhaul (4.0.2)](https://www.nexusmods.com/skyrim/mods/19281)
+- Updated [Requiem - Unarmed Combat Enhancer (0.3.1)](https://www.nexusmods.com/skyrimspecialedition/mods/42541)
+- Updated [Skyrim Landscape and Water Fixes (6.2)](https://www.nexusmods.com/skyrimspecialedition/mods/26138)
+- Updated [SunHelm Survival and needs (2.0.6)](https://www.nexusmods.com/skyrimspecialedition/mods/39414)
+- Updated [Unofficial Skyrim Special Edition Patch (4.2.5b)](https://www.nexusmods.com/skyrimspecialedition/mods/266)
+- Updated [Weapons Armor Clothing and Clutter Fixes (2.4)](https://www.nexusmods.com/skyrimspecialedition/mods/18994)
+- Updated [WoW Dragon Mounds CTD Fix (1.2)](https://www.nexusmods.com/skyrimspecialedition/mods/43188)
+- Updated [Wyrmstooth (1.19.4)](https://www.nexusmods.com/skyrimspecialedition/mods/45565)
+- Updated [Your Choices Matter - A Dark Brotherhood Expansion SSE (2.0.6)](https://www.nexusmods.com/skyrimspecialedition/mods/46871)
+- Updated [More Informative Console (0.43)](https://www.nexusmods.com/skyrimspecialedition/mods/19250)
+- Updated [powerofthree's Papyrus Extender (4.4.2)](https://www.nexusmods.com/skyrimspecialedition/mods/22854)
+- Updated [Bright Waterfall Fix for ENB (3.3.1)](https://www.nexusmods.com/skyrimspecialedition/mods/37956)
+- Updated [Enhanced Reanimation (1.3)](https://www.nexusmods.com/skyrimspecialedition/mods/43500)
+- Updated [Majestic Mountains - Lod Pack for DynDoLod (1.2)](https://www.nexusmods.com/skyrimspecialedition/mods/11052)
+- Updated [Majestic Mountains - Mesh Tangent Space Fixes (1.0)](https://www.nexusmods.com/skyrimspecialedition/mods/11052)
+- Updated [Scrambled Bugs (11.0.0)](https://www.nexusmods.com/skyrimspecialedition/mods/43532)
+- Updated [Scrambled Eggchantments (1.0)](https://www.nexusmods.com/skyrimspecialedition/mods/43532)
+- Updated [SSE Display Tweaks (0.4.15-1)](https://www.nexusmods.com/skyrimspecialedition/mods/34705)
+- Updated [SSE Display Tweaks - High performance configuration (0.4.15-1)](https://www.nexusmods.com/skyrimspecialedition/mods/34705)
+- Updated [Flinching - Script Free Edition (1.37)](https://www.nexusmods.com/skyrimspecialedition/mods/42550)
+- Updated [Sovngarde HD 2K (3.1)](https://www.nexusmods.com/skyrimspecialedition/mods/15891)
+- Updated [Immersive Dragons (1.4)](https://www.nexusmods.com/skyrimspecialedition/mods/18957)
+- Updated [Mild Complexions (2.0)](https://www.nexusmods.com/skyrimspecialedition/mods/28510)
+- Updated [Whiterun Mesh Fixes (1.1.5)](https://www.nexusmods.com/skyrimspecialedition/mods/48120)
+- Updated [Smooth Random Blocking Animation (2.1 - d2021.6.3)](https://smooths.tistory.com/)
+- Updated [Smooth Random Sprint Animation (2.1 - d2021.6.3)](https://smooths.tistory.com/)
+- Updated [Smooth Magic Casting Animation (3.2 - d2021.6.3)](https://smooths.tistory.com/)
+- Updated [Smooth Combat - Non Combat Animation System (2.3.0.0)](https://smooths.tistory.com/)
+- Updated [Smooth Random Magic idle Animation (1.0 - d2021.6.3)](https://smooths.tistory.com/)
+- Updated [Mod.Organizer-2.4.2.7z](https://github.com/ModOrganizer2/modorganizer/releases/)
+- Updated [enbseries_skyrimse_v0460.zip](http://enbdev.com/download_mod_tesskyrimse.htm)
+- Updated [Better Dynamic Snow SE (2.11.0)](https://www.nexusmods.com/skyrimspecialedition/mods/9121)
+- Updated [xLODGen.83.7z](https://stepmodifications.org/forum/topic/13451-xlodgen-terrain-lod-beta-83-for-fnv-fo3-fo4-fo4vr-tes5-sse-tes5vr-enderal-enderalse/)
+- Updated [Skyrim - A Mountainous Experience (1.5.6)](https://www.nexusmods.com/skyrimspecialedition/mods/43866)
+- Updated [Sleek Wolf Armor - Replacer and Standalone - CBBE - BHUNP - HIMBO - Vanilla (1.3)](https://www.nexusmods.com/skyrimspecialedition/mods/44812)
+- Updated [Real Rabbits HD - Color Variants and High Poly Mesh with Fur - Fluffy (1.3)](https://www.nexusmods.com/skyrimspecialedition/mods/29223)
+- Added [Dragon Stalking Fix (Loose Files Update) (1.0)](https://www.nexusmods.com/skyrimspecialedition/mods/46472)
+- Added [Better Dynamic Snow in New Lands (2.1.3)](https://www.nexusmods.com/skyrimspecialedition/mods/22741)
+- Added [Better Stealth AI for Followers (3.4)](https://www.nexusmods.com/skyrimspecialedition/mods/17600)
+- Added [Bleak falls barrow - Revisited (1.2.1)](https://www.nexusmods.com/skyrimspecialedition/mods/33251)
+- Added [Dlizzio's Mesh Fixes (2.3)](https://www.nexusmods.com/skyrimspecialedition/mods/39260)
+- Added [Embershard Mine - Revisited (1.1.3)](https://www.nexusmods.com/skyrimspecialedition/mods/34468)
+- Added [Halted Stream Camp - Revisited (1.0.2)](https://www.nexusmods.com/skyrimspecialedition/mods/39199)
+- Added [Horses for Followers (1.3)](https://www.nexusmods.com/skyrimspecialedition/mods/45500)
+- Added [JK's Candlehearth Hall (1.0.0)](https://www.nexusmods.com/skyrimspecialedition/mods/45617)
+- Added [JK's Elgrims Elixirs (1.0.0)](https://www.nexusmods.com/skyrimspecialedition/mods/49934)
+- Added [JK's Elgrims Elixirs - Bee and Barb Patch (1.0.0)](https://www.nexusmods.com/skyrimspecialedition/mods/49934)
+- Added [JK's New Gnisis Cornerclub (1.0.0)](https://www.nexusmods.com/skyrimspecialedition/mods/48293)
+- Added [JK's Palace of the Kings (1.1.1)](https://www.nexusmods.com/skyrimspecialedition/mods/48902)
+- Added [JK's Sadris Used Wares (1.0.0)](https://www.nexusmods.com/skyrimspecialedition/mods/47942)
+- Added [JK's Sadris Used Wares ELFX patch (1.0.0)](https://www.nexusmods.com/skyrimspecialedition/mods/47942)
+- Added [JK's The Bee and Barb (1.0.1)](https://www.nexusmods.com/skyrimspecialedition/mods/49516)
+- Added [JK's The Pawned Prawn (1.0.1)](https://www.nexusmods.com/skyrimspecialedition/mods/50135)
+- Added [JK's The Ragged Flagon (1.0.0)](https://www.nexusmods.com/skyrimspecialedition/mods/50765)
+- Added [JK's White Phial (1.1.1)](https://www.nexusmods.com/skyrimspecialedition/mods/47713)
+- Added [JK's White Phial ELFX patch (1.1.1)](https://www.nexusmods.com/skyrimspecialedition/mods/47713)
+- Added [JS Instruments of Skyrim SE (1.1)](https://www.nexusmods.com/skyrimspecialedition/mods/51959)
+- Added [LibFire (1.0.7.1)](https://git.fireundubh.com/fireundubh/LibFire)
+- Added [Majestic Mountains-BDS With LOD Fix (1.0.2)](https://www.nexusmods.com/skyrimspecialedition/mods/36248)
+- Added [Requiem - Shrine Blessings Ignore Conditions - Crime Only (1.0)](https://www.nexusmods.com/skyrimspecialedition/mods/51574)
+- Added [Simple Follower Sandbox (1.1.0)](https://www.nexusmods.com/skyrimspecialedition/mods/48636)
+- Added [Simple Outfit System (0.2.3)](https://www.nexusmods.com/skyrimspecialedition/mods/48974)
+- Added [Simple Taxes SE (3.5)](https://www.nexusmods.com/skyrimspecialedition/mods/14216)
+- Added [SNIFF - Simple No Internal Friendly Fire (1.2)](https://www.nexusmods.com/skyrimspecialedition/mods/43618)
+- Added [Stay With Me SSE (1.2.2)](https://git.fireundubh.com/fireundubh/StayWithMeSSE)
+- Added [Steepfall Burrow - Revisited (1.1)](https://www.nexusmods.com/skyrimspecialedition/mods/34594)
+- Added [Teach Followers Spells Through Spell Tomes SE (1.0)](https://www.nexusmods.com/skyrimspecialedition/mods/17384)
+- Added [Ustengrav - Revisited (1.1.1)](https://www.nexusmods.com/skyrimspecialedition/mods/33878)
+- Added [White River Watch - Revisited (1.0.2)](https://www.nexusmods.com/skyrimspecialedition/mods/39294)
+- Added [Windhelm Bridge Tweaks (1.1)](https://www.nexusmods.com/skyrimspecialedition/mods/38433)
+- Added [Follower Trap Safety (1.3)](https://www.nexusmods.com/skyrimspecialedition/mods/2755)
+- Added [SSEEdit Script - Fix Oldrim Mods Waterflow (1.2)](https://www.nexusmods.com/skyrimspecialedition/mods/5221)
+- Added [Equip Enchantment Fix (1.2.4)](https://www.nexusmods.com/skyrimspecialedition/mods/42839)
+- Added [powerofthree's Tweaks (1.2)](https://www.nexusmods.com/skyrimspecialedition/mods/51073)
+- Added [powerofthree's Tweaks - INI file (1.2)](https://www.nexusmods.com/skyrimspecialedition/mods/51073)
+- Added [Unofficial Material Fix (1.17.0)](https://www.nexusmods.com/skyrimspecialedition/mods/21027)
+- Added [Assorted mesh fixes (0.18)](https://www.nexusmods.com/skyrimspecialedition/mods/32117)
+- Added [Northfire's Windhelm (1)](https://www.nexusmods.com/skyrimspecialedition/mods/44099)
+- Added [Unique Skulls HD - SE 2K (1.0)](https://www.nexusmods.com/skyrimspecialedition/mods/52073)
+- Added [Unique Skulls HD - SE 2k LOTD (1.0)](https://www.nexusmods.com/skyrimspecialedition/mods/52073)
+- Added [Unique Skulls HD - SE - Skull keys Enb-Light Patch (1.0)](https://www.nexusmods.com/skyrimspecialedition/mods/52073)
+- Added [JS Instruments of Skyrim SE - All Gud Patch (1.1)](https://www.nexusmods.com/skyrimspecialedition/mods/51959)
+- Added [Experience (1.2.0)](https://www.nexusmods.com/skyrimspecialedition/mods/17751)
+- Added [Requiem - Static Skill Leveling (2.0.2)](https://www.nexusmods.com/skyrimspecialedition/mods/43185)
+- Added [Requiem - Immersive Racial Traits (0.9)](https://www.nexusmods.com/skyrimspecialedition/mods/47231)
+- Added [Dear Diary - Paper SkyUI Menus Replacer SE (3.0.5)](https://www.nexusmods.com/skyrimspecialedition/mods/23010)
+- Added [Dear Diary Startscreen Retexture (1.0)](https://www.nexusmods.com/skyrim/mods/101685)
+- Added [Paper World Map for SSE (1.4)](https://www.nexusmods.com/skyrimspecialedition/mods/10836)
+- Added [Paper World Map Addons (1.2.2)](https://www.nexusmods.com/skyrim/mods/84734)
+- Added [Warburg's Paper World Map Flat Mesh with Unofficial Fix and Flat Map Markers JSON (1.0.1)](https://www.nexusmods.com/skyrimspecialedition/mods/23114)
+- Added [Flat Map markers SSE (1.3.0)](https://www.nexusmods.com/skyrimspecialedition/mods/22122)
+- Added [Paper UI Sounds for Skyrim (6.1)](https://www.nexusmods.com/skyrimspecialedition/mods/38944)
+- Added [Red X custom destination marker (2.0)](https://www.nexusmods.com/skyrimspecialedition/mods/38944)
+- Added [Dialogue Interface ReShaped (1.03)](https://www.nexusmods.com/skyrimspecialedition/mods/46546)
+- Added [Paper HUD (4.0.1)](https://www.nexusmods.com/skyrimspecialedition/mods/34513)
+- Added [AllGUD Tweaks (1.0)](https://www.nexusmods.com/skyrimspecialedition/mods/50238)
+- Added [AllGud SE Azura Star Fix (2.3.4.5.6)](https://www.nexusmods.com/skyrimspecialedition/mods/48786)
+- Added [All Geared Up Derivative - JS Purses and Septims Patch (1.0)](https://www.nexusmods.com/skyrimspecialedition/mods/44581)
+- Added [Rally's Honey Pot (1.0)](https://www.nexusmods.com/skyrimspecialedition/mods/27984)
+- Added [Enderal Font for Skyrim SE (1.2)](https://www.nexusmods.com/skyrimspecialedition/mods/2004)
+- Added [Scribes of Skyrim - a font extension (0.9.3)](https://www.nexusmods.com/skyrimspecialedition/mods/50008)
+- Added [SunHelm Survival - Compatibility Patches (1.1)](https://www.nexusmods.com/skyrimspecialedition/mods/41335)
+- Added [Requiem - Skills of the Scoundrel (1.1.0)](https://www.nexusmods.com/skyrimspecialedition/mods/48972)
+- Removed [Nether's Follower Framework]
+- Removed [Fixed Dragon Stalking Fix]
+- Removed [Enchantment Reload Fix SE]
+- Removed [Fluffy Snow Windhelm Bridge and Street Fix]
+- Removed [ElSopa HD - Dragonborn Skull Variants SE - 1K Dragonborn Skull Variant]
+- Removed [Hoeny Pot Special Edition]
+- Removed [Sovngarde - A Nordic Font]
+- Removed [Main menu spinning Skyrim emblem]
+- Removed various UI mods in favour of paper UI
+
+**Fixes & Tweaks**:
+
+- [Xanza] Removed follower gating for Inigo and 3DNPC. While it helps balance, I don't want people going to mod authors asking them why their mod is broken for a change that I made. Practice self restraint or use an OP follower but don't ask me why things are too easy if you do
+- [Xanza] Adjusted Necromancer Amulet's base magicka requirements back to 150 from 300 (wtf IDB)
+- [Xanza] Tweaked shrine blessings to ignore crime stats. All shrines do not care how many people you've murdered and all shrines except Zenithar do not care how many items you've stolen or pickpocketed
+- Tweaked Teleport Vitals spells and Alchemy gold/XP rate to actually make sense
+- Fixed Kynareth blessing - Nature's Gift - traveler carry weight bonus not applying
+- Created two profiles which will be supported from now on:
+  - Serenity: Experience and SSL
+  - Serenity Vanilla: Vanilla XP
+- [Xanza] Replaced NFF with separate set of followers mods
+- [Xanza] Added set of Revisited dungeons, JK's mods and various mod updates
 
 ## Serenity 2 v1.4.0
 
@@ -315,7 +697,7 @@ This update requires a new save game
 - Updated [Requiem - small tweaks SE - Vampire Collection](http://nexusmods.com/skyrimspecialedition/mods/42633)
 - Updated [SSE Display Tweaks](http://nexusmods.com/skyrimspecialedition/mods/34705)
 - Updated [Storm Lightning for SSE and VR (Minty Lightning 2019)](http://nexusmods.com/skyrimspecialedition/mods/29243)
-- Updated [Legacy of The Dragonborn museum dome improved](http://nexusmods.com/skyrimspecialedition/mods/45655)
+- Updated [Legacy of The Dragonborn museum dome improved](http://nexusmods.com/skyrimspecialedition/mods/45655)
 - Removed [Auriels Bow - HD Retexture](http://nexusmods.com/skyrim/mods/44333)
 - Removed [Auriels Shield - HD Retexture](http://nexusmods.com/skyrim/mods/51148)
 - Removed [Bloodskal Blade Redone](http://nexusmods.com/skyrim/mods/54229)
