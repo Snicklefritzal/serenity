@@ -129,7 +129,7 @@ There are a lot of different scenarios where Wabbajack will produce an error. I 
 
 **Could not download Legacy of the Dragonborn - The Curator's Companion**:
 
-Link for LotD Curator's companion. Please download this exact file and place it directly in your Serenity downloads folder (please do not unzip)
+Please download this exact file and place it directly in your Serenity downloads folder (please do not unzip)
 https://www.nexusmods.com/skyrimspecialedition/mods/38529?tab=files&file_id=210832 
 
 **Could not download x**:
