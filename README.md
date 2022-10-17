@@ -11,7 +11,7 @@
       - [Steam Config](#steam-config)
         - [Disable the Steam Overlay](#disable-the-steam-overlay)
       - [Set the Game language to English](#set-the-game-language-to-english)
-      - [Clean Skyrim Anniversary Edition](#clean-skyrim-anniversary-edition)
+      - [Clean Skyrim Special or Anniversary Edition](#clean-skyrim-special-or-anniversary-edition)
       - [Start Skyrim](#start-skyrim)
     - [Using Wabbajack](#using-wabbajack)
       - [Preparations](#preparations)
@@ -35,7 +35,7 @@
   - [In-Game MCM Options](#in-game-mcm-options)
     - [Optional Survival Config](#optional-survival-config)
   - [Other Post Installation FAQ](#other-post-installation-faq)
-    - [Ultrawide Options](#ultrawide-options)
+    - [Ultrawide Options](#ultrawide-or-non-standard-monitor-options)
     - [Tweaking the Game Settings](#tweaking-the-game-settings)
     - [Zoomed in Display](#zoomed-in-display)
     - [Removing the Modlist](#removing-the-modlist)
@@ -97,13 +97,13 @@ Just do it. This entire Modlist is in English and 99% of all mods you will find 
 
 Open the Steam Properties window, navigate to the _Language_ tab and select _English_ from the dropdown menu.
 
-#### Clean Skyrim Anniversary Edition
+#### Clean Skyrim Special or Anniversary Edition
 
 I highly recommend uninstalling the game through Steam, deleting the game folder and reinstalling it. You should also clean up the `Skyrim Special Edition` folder in `Documents/My Games/` by deleting the contents in it.
 
 #### Start Skyrim
 
-After you have done everything above and got a clean SSE installation ready, start the Launcher and and let it do the initial graphics check. Do not worry about this part as the installation will replace this graphics settings.
+After you have done everything above and got a clean SSE/SAE installation ready, start the Launcher and and let it do the initial graphics check. Do not worry about this part as the installation will replace this graphics settings.
 Start the game and exit once you're in the main menu.
 
 ### Using Wabbajack
@@ -126,6 +126,11 @@ The download and installation process can take a very long time depending on you
 ##### Problems with Wabbajack
 
 There are a lot of different scenarios where Wabbajack will produce an error. I recommend re-running Wabbajack before posting anything. Wabbajack will continue where it left off so you lose no progress.
+
+**Could not download Legacy of the Dragonborn - The Curator's Companion**:
+
+Link for LotD Curator's companion. Please download this exact file and place it directly in your Serenity downloads folder (please do not unzip)
+https://www.nexusmods.com/skyrimspecialedition/mods/38529?tab=files&file_id=210832 
 
 **Could not download x**:
 
@@ -239,6 +244,11 @@ Serenity uses the full suite of [JK's Skyrim](https://www.nexusmods.com/skyrimsp
 
 Head over to the installation folder and locate an executable named `ModOrganizer.exe` and launch it. Once its launched there will be a dropdown box on the top right and a big run button next to it. Ensure it is set to SKSE by selecting it in the dropdown box and then hitting the run button.
 
+> If you are getting the 'designated write target "Game Output" is not enabled error in MO2 then try editing the SKSE executable by clicking the dropdown SKSE is in and then clicking edit and  unchecking 'create files in mod instead of overwrite' with SKSE selected.
+
+![image](https://user-images.githubusercontent.com/111024213/196280623-056cbcbd-9cfe-420f-99ba-487c6c6b6d78.png)
+
+
 ## Updating
 
 If this Modlist receives an update please check the Changelog before doing anything. Always backup your saves or start a new game after updating.
@@ -248,8 +258,6 @@ If this Modlist receives an update please check the Changelog before doing anyth
 This means **screenshots** and **presets** you have created, as well as **custom settings** and any **additional mods** you have installed on top of the Modlist will be deleted. Your downloads folder will not be touched\*
 
 Updating is like installing. You only have to make sure that you select the same path and tick the _overwrite existing Modlist_ button.
-  
-Remember that you might have to downgrade your Skyrim to Special Edition, if you have updated it to Anniversary Edition.
 
 \* *Note, you can preserve character presets (and even modifications) by adding `[NoDelete] ` tag to your mod. For example, `[NoDelete] Khinara Jade SE - RaceMenu Preset` such mod will not be deleted by Wabbajack overwrite/upgrade.*
 
